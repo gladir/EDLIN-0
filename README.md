@@ -1,6 +1,8 @@
 # EDLIN-0
 Clone du EDLIN du DOS écrit en Pascal
 
+![image](https://user-images.githubusercontent.com/11842176/201493782-c6d8a7a3-da88-4597-a8ce-5840ea86e2d8.png)
+
 <h2>Compilation</h2>
 	
 Les fichiers Pascal n'ont aucune dépendances, il suffit de télécharger le fichier désiré et de le compiler avec Free Pascal avec la syntaxe de commande  :
